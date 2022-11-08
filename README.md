@@ -1,5 +1,16 @@
 # Miapp
 
+## 8-11-2022
+
+Tarea Ejercicio Angular ngif/(click)
+
+Prof.Marcelo Mora Picado
+
+Estudiante:Pablo Guadamuz
+
+
+
+---
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
 
 ## Development server
