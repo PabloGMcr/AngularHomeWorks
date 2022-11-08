@@ -1,0 +1,28 @@
+
+<div class=" container">
+
+  <h1  class="text-center"> < Ejercicio: *ngIf | (click)/> </h1>
+
+
+<div *ngIf="mostrar" class="card mt-5">
+    <div class="card-header">
+      Cita
+    </div>
+    <div class="card-body">
+      <blockquote class="blockquote mb-0">
+        <p>{{frase_1.mensaje}}</p>
+        <footer class="blockquote-footer">{{frase_1.autor}}<cite title="Source Title"></cite></footer>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="text-center">
+    <button (click)="mostrar=!mostrar" class="btn btn-primary">Mostrar / Ocultar</button>
+  </div>
+  
+
+  <!--<button class="btn btn-primary" type="submit">Mostrar / Ocultar</button>-->
+
+</div>
+
+
