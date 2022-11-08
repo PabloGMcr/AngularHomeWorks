@@ -8,6 +8,7 @@ Prof.Marcelo Mora Picado
 
 Estudiante:Pablo Guadamuz
 
+https://github.com/PabloGMcr/AngularHomeWorks/blob/master/src/assets/img/2048px-Angular_full_color_logo.svg%20(1).png
 
 
 ---
